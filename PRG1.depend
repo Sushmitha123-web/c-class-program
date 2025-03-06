@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1741239757 source:d:\4vv23ec414\prg1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1741239826 source:d:\4vv23ec414\prg1\integer.c
+	<stdio.h>
+
